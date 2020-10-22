@@ -1,0 +1,12 @@
+# OAuth App Credentials from GitHub
+GITHUB_CLIENT_ID=3a7bad72a729710bab83
+GITHUB_CLIENT_SECRET=9722919d1117b2424350bdeeca9640e21c659f9c
+
+# The path to your repository in GitHub
+REPO_FULL_NAME=my-github-user/my-github-repo
+
+# The base branch that new changes and forks are created from. Defaults to 'master'.
+BASE_BRANCH=main
+
+# The signing key used for token encryption
+SIGNING_KEY=eUVIXKZu5+tY/F1FgAviE2A0IwcNEYotxvMnHsC6kU4=
